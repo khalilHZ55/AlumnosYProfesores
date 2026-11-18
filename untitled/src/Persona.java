@@ -7,7 +7,7 @@ public class Persona {
     }
 
     public String presentarse() {
-        return "Hola, soy " + nombre;
+        return "Hola, me llamo " + nombre;
     }
     public String getNombre() {
         return nombre;
